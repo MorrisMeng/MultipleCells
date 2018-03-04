@@ -26,3 +26,6 @@ TableView of multiple types of cells .
     return cell;
 }
 ```
+
+star it 
+
